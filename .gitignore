@@ -58,3 +58,6 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+VR_01_No_Headset/Library/
+VR_01_No_Headset/Logs/
+VR_01_No_Headset/Temp/
