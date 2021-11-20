@@ -6,6 +6,7 @@ Select a single eye
 CONTROLS 
 
 Move Camera - right mouse
+
 Move forward / backward - right mouse + scroll
 Left hand movement - space + mouse movement
 Right hand movement - shift + mouse movement
